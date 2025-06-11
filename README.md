@@ -6,6 +6,7 @@
       
   </font>
 </h3>
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivampatil2711) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patilshivam864@gmail.com) 
