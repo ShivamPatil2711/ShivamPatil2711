@@ -2,7 +2,7 @@
 <h1 align="center"><font face="Arial">Hi 👋, I'm  <a href="https://www.linkedin.com/in/shivampatil2711/" target="_blank" rel="noreferrer">Shivam Patil</a></font></h1>
 <h3 align="center">
   <font face="Arial">
-    I’m a Third‑Year Computer Science student at NIT Bhopal, passionate about full‑stack web development and data structures & algorithms
+    I’m a Final Year Computer Science student at NIT Bhopal, passionate about full‑stack web development and data structures & algorithms
       
   </font>
 </h3>
